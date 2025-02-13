@@ -4,9 +4,9 @@
 Follow these steps to get the project running on your local machine.
 
 
-git clone <your-repository-link>
+git clone repolink
 
-cd <project-folder>
+cd projectfolder
 
 npm install
 
