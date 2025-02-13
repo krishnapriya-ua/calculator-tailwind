@@ -111,7 +111,7 @@ const Calculator = () => {
       </div>
 
       {/*The Right content-calculator*/}
-      <div className={`w-full md:w-1/3 p-6 rounded-lg shadow-xl flex flex-col items-center ${darkMode ? "bg-black text-white" : "bg-white text-black"}`}
+      <div className={`w-full md:w-1/3 p-6 rounded-lg shadow-xl flex flex-col items-center ${darkMode ? "bg-black text-white" : "bg-white text-black"}mx-auto`}
       onDragOver={handleDragOver}
       
       >
